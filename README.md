@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MY PORTFOLIO WEBISTE**
+- 🔭 I’m currently working on **NETFLIX CLONE**
 
-- 🌱 I’m currently learning **Java and react js**
+- 🌱 I’m currently learning **Java script and react js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
